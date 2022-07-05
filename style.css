@@ -127,4 +127,57 @@ span{
 #third-section-p{
     text-align: center;
     margin-top: -10px;
+    margin-bottom: 60px;
+}
+
+/* Fourth Section CSS Code Starts From Here */
+
+.fourth-section{
+    display: flex;
+}
+
+.fourth-section h1{
+    font-size: 25px;
+}
+
+.fourth-section p{
+    margin-top: -7px;
+}
+
+.fifth-half-width{
+    width: 40%;
+    margin-left: 100px;
+    /* margin-bottom: 80px; */
+    padding-left: 20px;
+    padding-bottom: 30px;
+    border-left: 10px solid blueviolet;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px grey;
+}
+
+.fifth-half-width img{
+    width: 95%;
+    height: 320px;
+    padding-left: 7px;
+    margin-top: 26px;
+    border-radius: 30px;
+}
+
+.sixth-half-width{
+    width: 40%;
+    margin-left: 100px;
+    /* margin-bottom: 80px; */
+    padding-left: 20px;
+    padding-bottom: 30px;
+    border-left: 10px solid blue;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px grey;
+}
+
+.sixth-half-width img{
+    width: 95%;
+    height: 320px;
+    padding-left: 7px;
+    margin-top: 26px;
+    border-radius: 30px;
 }
